@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo>
+    <!-- This Menu Item must have a parent and an action -->
+    <menuitem id="_menu_act" name="Real Estate">
+        <menuitem id="estate_property_menu_action" action="estate_property_action" sequence="1"/>
+    </menuitem>
+</odoo>
